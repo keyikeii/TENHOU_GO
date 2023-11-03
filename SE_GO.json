@@ -1,0 +1,23 @@
+{
+  "ver":1.0,
+  "se":{
+    "3": { "url": "https://github.com/keyikeii/TENHOU_GO/raw/master/countdown5.mp3" },
+    "8": { "url": "https://github.com/keyikeii/TENHOU_GO/raw/master/btn_appear.mp3" },
+    "9": { "url": "https://github.com/keyikeii/TENHOU_GO/raw/master/new_dora.mp3" },
+    "11": { "url": "https://github.com/keyikeii/TENHOU_GO/raw/master/hule_fan_out.mp3" },
+    "25": { "url": "https://github.com/keyikeii/TENHOU_GO/raw/master/pon.mp3" },
+    "26": { "url": "https://github.com/keyikeii/TENHOU_GO/raw/master/pon.mp3" },
+    "27": { "url": "https://github.com/keyikeii/TENHOU_GO/raw/master/kan.mp3" },
+    "28": { "url": "https://github.com/keyikeii/TENHOU_GO/raw/master/kan.mp3" },
+    "29": { "url": "https://github.com/keyikeii/TENHOU_GO/raw/master/chi.mp3" },
+    "30":{"url":"https://github.com/keyikeii/TENHOU_GO/raw/master/chi.mp3"},
+    "31": { "url": "https://github.com/keyikeii/TENHOU_GO/raw/master/reach.mp3" },
+    "32": { "url": "https://github.com/keyikeii/TENHOU_GO/raw/master/reach.mp3" },
+    "33": { "url": "https://github.com/keyikeii/TENHOU_GO/raw/master/ron.mp3" },
+    "34": { "url": "https://github.com/keyikeii/TENHOU_GO/raw/master/ron.mp3" },
+    "35": { "url": "https://github.com/keyikeii/TENHOU_GO/raw/master/zimo.mp3" },
+    "36": { "url": "https://github.com/keyikeii/TENHOU_GO/raw/master/zimo.mp3" },
+    "40": { "url": "https://github.com/keyikeii/TENHOU_GO/raw/master/winlose.mp3" },
+    "41": { "url": "https://github.com/keyikeii/TENHOU_GO/raw/master/yakuman.mp3" }
+  }
+}
