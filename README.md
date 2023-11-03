@@ -1,0 +1,2 @@
+# TENHOU_GO
+keyikeii/TENHOU_GO
